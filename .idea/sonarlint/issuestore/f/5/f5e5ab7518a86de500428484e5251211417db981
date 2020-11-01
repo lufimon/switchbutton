@@ -1,0 +1,21 @@
+
+Mkotlin:S108¥")Either remove or fill this block of code.(áÙ‡úÿÿÿÿ8…ã­™Ø.
+Bkotlin:S125v"Remove this commented out code.(ú şªùÿÿÿÿ8…ã­™Ø.
+=kotlin:S125b"Remove this commented out code.(ÖïÅŸ8…ã­™Ø.
+zkotlin:S1186ñ"ZAdd a nested comment explaining why this function is empty or complete the implementation.( …½ü8…ã­™Ø.
+zkotlin:S1186Ã"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ŒÛµ¶8…ã­™Ø.
+wkotlin:S3776è"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(€à‹ªùÿÿÿÿ8ú–‡Ø.
+Mkotlin:S108—")Either remove or fill this block of code.(–ùÆ‹øÿÿÿÿ8…ã­™Ø.
+Ckotlin:S125€"Remove this commented out code.(Œ“±ıÿÿÿÿ8…ã­™Ø.
+=kotlin:S125V"Remove this commented out code.(ÉœÂó8…ã­™Ø.
+fkotlin:S107•"GThis function has 8 parameters, which is greater than the 7 authorized.(¦®õ 8…ã­™Ø.
+kkotlin:S107Â"GThis function has 8 parameters, which is greater than the 7 authorized.(âœÈøÿÿÿÿ8…ã­™Ø.
+Mkotlin:S108¼")Either remove or fill this block of code.(–ùÆ‹øÿÿÿÿ8…ã­™Ø.
+Mkotlin:S108¾")Either remove or fill this block of code.(±ß–ûÿÿÿÿ8…ã­™Ø.
+wkotlin:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§­“ÿÿÿÿÿ8…ã­™Ø.
+=kotlin:S125P"Remove this commented out code.(ÖïÅŸ8…ã­™Ø.
+ykotlin:S1186ò"ZAdd a nested comment explaining why this function is empty or complete the implementation.(œ¬Ü.8…ã­™Ø.
+kotlin:S1186¢"ZAdd a nested comment explaining why this function is empty or complete the implementation.(êÓşãüÿÿÿÿ8…ã­™Ø.
+kotlin:S1186Ä"ZAdd a nested comment explaining why this function is empty or complete the implementation.(£ÔÇúÿÿÿÿ8…ã­™Ø.
+=kotlin:S125]"Remove this commented out code.(Ã‡³8…ã­™Ø.
+rkotlin:S1871™"MThis branch's code block is the same as the block for the branch on line 915.(±ß–ûÿÿÿÿ8…ã­™Ø.

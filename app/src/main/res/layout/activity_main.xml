@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <th.co.cdgs.mobile.lib.SwitchButton
+        android:id="@+id/sw_activitymain"
+        android:layout_width="100dp"
+        android:layout_height="27dp"
+        app:sb_checked="true"
+        app:sb_text_on="เปิด"
+        app:sb_text_off="ปิด"
+        app:sb_text_on_size="15sp"
+        app:sb_text_off_size="15sp"
+        app:sb_gradient_i="@color/teal_200"
+        app:sb_gradient_ii="@color/white"
+        app:sb_gradient_iii="@color/black"
+        app:sb_gradient_path="BL_TR"
+        app:sb_text_on_color="@color/white"
+        app:sb_text_off_color="@color/white"
+        app:sb_text_on_font="@font/kanit_light"
+        app:sb_text_off_font="@font/kanit_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
